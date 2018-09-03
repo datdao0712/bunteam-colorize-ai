@@ -6,6 +6,5 @@ import (
 )
 
 func main() {
-	beego.BConfig.WebConfig.ViewsPath = "frontend/bunteam-colorize-ai/dist/"
 	beego.Run()
 }

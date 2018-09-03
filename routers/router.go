@@ -6,6 +6,5 @@ import (
 )
 
 func init() {
-	beego.SetStaticPath("/frontend", "frontend/bunteam-colorize-ai/dist")
-	beego.Router("/", &controllers.MainController{})
+	beego.Router("/*", &controllers.MainController{})
 }
