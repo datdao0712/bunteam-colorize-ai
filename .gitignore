@@ -1,2 +1,4 @@
 /frontend/bunteam-colorize-ai/node_modules/*
 bunteam-colorize-ai
+bunteam-go-workspace.code-workspace
+.vscode/settings.json
