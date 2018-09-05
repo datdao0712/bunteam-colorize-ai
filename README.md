@@ -34,3 +34,7 @@ Start frontend in `/frontend/bunteam-colorize-ai/`:
 npm start
 ```
 *Expose port `:8080` (Frontend)*
+To run unit test (Current Project/tests):
+```
+$GOPATH/bin/goconvey
+```
