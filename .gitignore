@@ -2,5 +2,5 @@
 bunteam-go-workspace.code-workspace
 .vscode/settings.json
 lastupdate.tmp
-frontend/bunteam-colorize-ai/dist/index_bundle.js
 bunteam-colorize-ai
+frontend/bunteam-colorize-ai/dist/index_bundle.js
